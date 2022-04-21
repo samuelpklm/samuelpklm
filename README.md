@@ -28,5 +28,7 @@
 </p>
 
 <h3>:book: Study platforms : </h3>
-<p>https://www.frontendmentor.io/profile/samuelpklm :</p>
+<p><a href="https://www.frontendmentor.io/profile/samuelpklm" target="_blank"><img align="center" src="https://github.com/samuelpklm/samuelpklm/blob/main/Frontend-mentor.png" alt="my profile in frontend-mentor" height="auto" width="auto"/></a></p>
+
+
 
