@@ -30,6 +30,7 @@
 <h3>:book: Study platforms : </h3>
 <p><a href="https://www.frontendmentor.io/profile/samuelpklm" target="_blank"><img align="center" src="https://github.com/samuelpklm/samuelpklm/blob/main/Frontend-mentor.png" alt="my profile in frontend-mentor" height="30" width="auto"/></a>
 <a href="https://www.freecodecamp.org/Sarut" target="_blank"><img align="center" src="https://github.com/samuelpklm/samuelpklm/blob/main/FreeCodeCamp.png" alt="my profile in freecodecamp" height="30" width="auto"/></a>
+<a href="https://www.udemy.com/user/samuel-rodriguez-219/" target="_blank"><img align="center" src="https://github.com/samuelpklm/samuelpklm/blob/main/udemy.jpg" alt="my profile in udemy" height="30" width="auto"/></a>
 </p>
 
 
