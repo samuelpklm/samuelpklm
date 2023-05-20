@@ -3,7 +3,7 @@
 <h2 align="center">Frontend development enthusiast</h2>
 
 - 🔭 I am currently working on the development of jamstack projects
-- 🌱 I’m currently learning html,js,css
+- 🌱 I’m currently learning React js, TypeScript and Next js
 - 👯 I’m looking to collaborate on the development of web pages
 - 💬 Ask me about web development and jamstack methodology
 - 📫 How to reach me: samuelr76@gmail.com
